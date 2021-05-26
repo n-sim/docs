@@ -8,6 +8,7 @@
 - Bidirektional (1:n / n:1): Fremdschlüssel in Tabelle der Owning-Seite
 - Unidirektional (m:n): Verbindungstabelle
 - Bidirektional (m:n): Verbindungstabelle
+
 ## Unidirektionales / Bidirektionales Mapping
 **Bidirektionales Mapping**
 - Im Objektmodell gibt es auf beiden Seiten eine Referenz (Attribute in beiden Klassen)
